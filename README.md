@@ -1,6 +1,8 @@
 # 💫 About Me:
 "I am currently studying at IIITDM Kancheepuram, <br>interested in app development and ML."
 
+[My Repositories](https://github.com/akash-deepak-varma?tab=repositories)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akash._.deepak) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-deepak-varma-vaddi-2454aa261/)
